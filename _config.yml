@@ -5,9 +5,9 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: LOFFER
+name: Zhu Kun
 # 描述/签名
-description: 一个可以fork的博客
+description: Android软件开发（物联网）
 
 #
 # 下面的设定都是可选的
@@ -23,13 +23,13 @@ favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/fav
 # 菜单中的按钮
 navigation:
   - name: 首页
-    url: /
+    url: /JustZK.github.io/
   - name: 关于
-    url: /about
+    url: /JustZK.github.io/about
   - name: 归档
-    url: /archive
+    url: /JustZK.github.io/archive
   - name: 标签
-    url: /tags
+    url: /JustZK.github.io/tags
 
 # 每页的文章数
 paginate: 8
