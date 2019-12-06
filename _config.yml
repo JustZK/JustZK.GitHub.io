@@ -23,13 +23,13 @@ favicon: https://github.com/JustZK/JustZK.github.io/blob/master/images/favicon.p
 # 菜单中的按钮
 navigation:
   - name: 首页
-    url: /JustZK.github.io/
+    url: /
   - name: 关于
-    url: /JustZK.github.io/about
+    url: /about
   - name: 归档
-    url: /JustZK.github.io/archive
+    url: /archive
   - name: 标签
-    url: /JustZK.github.io/tags
+    url: /tags
 
 # 每页的文章数
 paginate: 8
@@ -79,7 +79,7 @@ url:
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /LOFFER
+baseurl: /
 
 
 #
