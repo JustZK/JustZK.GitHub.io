@@ -39,7 +39,7 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: https://weibo.com/u/3393063374?refer_flag=1005055010_ #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo: 夜深茶亦凉 #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: zk199519@gmail.com 
