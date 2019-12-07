@@ -9,11 +9,11 @@ comments: true
 
 # 新建Java Module
 
-![https://github.com/JustZK/JustZK.github.io/blob/master/images/how-to-quickly-create-a-new-java-module-and-run-it/create-java-module.png]()
+![https://raw.githubusercontent.com/JustZK/JustZK.github.io/master/images/how-to-quickly-create-a-new-java-module-and-run-it/create-java-module.png]()
 
 # 新建Java的入口
 
-![https://github.com/JustZK/JustZK.github.io/blob/master/images/how-to-quickly-create-a-new-java-module-and-run-it/new-java-entrance.png]()
+![https://raw.githubusercontent.com/JustZK/JustZK.github.io/master/images/how-to-quickly-create-a-new-java-module-and-run-it/new-java-entrance.png]()
 
 # 配置运行配置
 
