@@ -4,4 +4,14 @@ title: 关于
 permalink: /about/
 ---
 
-这是一个关于页面，请编辑about.md以介绍你的博客。
+名字：朱坤
+
+职位：Android软件开发（物联网）
+
+Email：zk199519@gmail.com
+
+QQ：821188193
+
+WeChat：wxid_natzjpalczpt12
+
+地址：杭州
