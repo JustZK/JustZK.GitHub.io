@@ -1,4 +1,4 @@
-这里是ZK发布在GitHub的Jekyll博客，Fork form FromEndWorld]([FromEndWorld](https://github.com/FromEndWorld))。
+这里是ZK发布在GitHub的Jekyll博客，Fork form ([FromEndWorld](https://github.com/FromEndWorld/LOFFER))。
 
 ## 关于ZK
 
