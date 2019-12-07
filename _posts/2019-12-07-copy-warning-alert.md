@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如何在Android Studio 3.5级以上复制Warning提醒
+title: 如何在Android Studio 3.5及以上复制Warning提醒
 date: 2019-12-07
 Author: Zhu Kun
 tags: [Android Studio]
