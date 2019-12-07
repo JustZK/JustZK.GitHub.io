@@ -23,6 +23,6 @@ comments: true
 
 # 视图
 
-![](https://justzk.github.io/images/activity-life-cycle-1.jpg)
+![](https://justzk.github.io/images/activity-life-cycle/activity-life-cycle-1.jpg)
 
-![](https://justzk.github.io/images/activity-life-cycle-2.png)
+![](https://justzk.github.io/images/activity-life-cycle/activity-life-cycle-2.png)
