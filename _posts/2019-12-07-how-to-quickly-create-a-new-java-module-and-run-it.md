@@ -9,14 +9,14 @@ comments: true
 
 # 新建Java Module
 
-![https://raw.githubusercontent.com/JustZK/JustZK.github.io/master/images/how-to-quickly-create-a-new-java-module-and-run-it/create-java-module.png]()
+![https://justzk.github.io/images/how-to-quickly-create-a-new-java-module-and-run-it/create-java-module.png]()
 
 # 新建Java的入口
 
-![https://raw.githubusercontent.com/JustZK/JustZK.github.io/master/images/how-to-quickly-create-a-new-java-module-and-run-it/new-java-entrance.png]()
+![https://justzk.github.io/images/how-to-quickly-create-a-new-java-module-and-run-it/new-java-entrance.png]()
 
 # 配置运行配置
 
-![/images/how-to-quickly-create-a-new-java-module-and-run-it/configure-running-configuration-1.png]()
+![https://justzk.github.io/images/how-to-quickly-create-a-new-java-module-and-run-it/configure-running-configuration-1.png]()
 
-![/images/how-to-quickly-create-a-new-java-module-and-run-it/configure-running-configuration-2.png]()
+![https://justzk.github.io/images/how-to-quickly-create-a-new-java-module-and-run-it/configure-running-configuration-2.png]()
