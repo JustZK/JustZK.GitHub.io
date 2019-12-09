@@ -10,7 +10,7 @@ comments: true
 
 ## 首先下载keytool工具，地址
 
-https://github.com/getfatday/keytool-importkeypair
+[keytool-importkeypair](https://github.com/getfatday/keytool-importkeypair)
 
 ## 相关文件
 
@@ -22,7 +22,7 @@ https://github.com/getfatday/keytool-importkeypair
 
 ## 执行指令
 
-```java
+```javascript
 # 转换系统签名命令
 ./keytool-importkeypair -k FaceCabinet.jks -p cetc52 -pk8 platform.pk8 -cert platform.x509.pem -alias debug
 # FaceCabinet.jks : 签名文件
