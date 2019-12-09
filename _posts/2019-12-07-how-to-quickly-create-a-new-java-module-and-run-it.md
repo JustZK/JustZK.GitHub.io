@@ -4,6 +4,7 @@ title: Android Studio 如何快速的新建一个Java Module 并运行（可用�
 date: 2019-12-07
 Author: Zhu Kun
 tags: [Android Studio]
+toc: true
 comments: true
 ---
 
