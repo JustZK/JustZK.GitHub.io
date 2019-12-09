@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 让Key.jks支持系统签名(证书)
+title: 非系统权限的apk无法安装问题
 date: 2019-12-09
 Author: Zhu Kun
-tags: [System Permission]
+tags: [System Permission, AndroidManifest]
 toc: true
 comments: true
 ---
@@ -13,4 +13,3 @@ comments: true
 android:sharedUserId="android.uid.system"
 
 **该要求需要系统权限。**
-
