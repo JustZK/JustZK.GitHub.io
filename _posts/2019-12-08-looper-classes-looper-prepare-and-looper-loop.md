@@ -4,6 +4,7 @@ title: Looper类，Looper.prepare()和Looper.loop()
 date: 2019-12-08
 Author: Zhu Kun
 tags: [Handler]
+toc: true
 comments: true
 ---
 
