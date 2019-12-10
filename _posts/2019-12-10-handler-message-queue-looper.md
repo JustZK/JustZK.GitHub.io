@@ -59,4 +59,4 @@ send 类型的用来发送 **Message** 类型的数据。
 - 一个是当一个新的消息被加入到队列中，并且将会早于之前队列的所有消息被触发，那么此时将会重新设置超时时间。
 - 如果达到了超时时间同样可以从睡眠状态中返回，也就回到了     Java 层继续处理。所以，Native 层的 Looper 的作用就是通过阻塞消息队列获取消息的过程阻塞 Looper。
 
-（详解：https://juejin.im/post/5bdec872e51d4551ee2761cb#heading-3）
+（详解：[](https://juejin.im/post/5bdec872e51d4551ee2761cb#heading-3)）
