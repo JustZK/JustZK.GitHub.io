@@ -11,17 +11,23 @@ comments: true
 ## Activity A 启动另一个Activity B，回调如下 ：
 
 ```java
-Activity A 的onPause() → 
+Activity A ：
+  
+  onPause() → 
 
-Activity B 的onCreate() → 
+Activity B ：
+  
+  onCreate() → 
+  
+  onStart() → 
+  
+  onResume() →
 
-						 onStart() → 
-
-             onResume() →
-
-Activity A 的onStop()；
+Activity A ：
+  
+  onStop()；
 ```
 
-## **如果B是透明主题又或则是个DialogActivity：**
+## 如果B是透明主题又或则是个DialogActivity：
 
 则**不会**回调A的onStop；
