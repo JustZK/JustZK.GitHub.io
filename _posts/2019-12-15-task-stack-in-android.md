@@ -81,7 +81,7 @@ TaskAffinity特点如下：
 
    这个属性对于一些应用非常有用，例如Browser应用程序，有很多状态，比如打开很多的tab，用户不想丢失这些状态，使用这个属性就极为恰当。
 
-5. **5android:documentLaunchMode**
+5. **android:documentLaunchMode**
 
    **intoExisting**
 
