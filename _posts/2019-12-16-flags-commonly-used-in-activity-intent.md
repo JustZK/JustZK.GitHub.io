@@ -8,7 +8,19 @@ toc: true
 comments: true
 ---
 
-Intent作为Android四大组件的沟通桥梁，用Action确定了响应对象，用Category规定了响应条件，用Data描述了请求数据类型，至于开启新组件的属性和模式，则交给了Flag。下面是列举出来的几个Flag：
+Intent作为Android四大组件的沟通桥梁，
+
+用Action确定了响应对象，
+
+用Category规定了响应条件，
+
+用Data描述了请求数据类型，
+
+至于开启新组件的属性和模式，则交给了Flag。
+
+下面是列举出来的几个Flag：
+
+
 
 ## 常用的标记位Flags
 
