@@ -22,4 +22,4 @@ comments: true
 
 #### 二、onActivityResult的requestCode、resultCode
 
-![](http://justzk.github.io/images/problems-encountered-in-calling-start-activity-for-result-in-fragment/problems-encountered-in-calling-start-activity-for-result-in-fragment.png)
+![](http://justzk.github.io/images/problems-encountered-in-calling-start-activity-for-result-in-fragment/problems-encountered-in-calling-start-activity-for-result-in-fragment.jpg)
