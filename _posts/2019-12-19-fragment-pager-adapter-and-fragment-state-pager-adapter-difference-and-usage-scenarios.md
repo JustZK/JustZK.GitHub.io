@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FragmentPagerAdapter与FragmentStatePagerAdapter的区别与使用场景
-date: 2019-12-18
+date: 2019-12-19
 Author: Zhu Kun
 tags: [Fragment, PagerAdapter, Adapter]
 toc: true
