@@ -3,7 +3,7 @@ layout: post
 title: Collections工具类
 date: 2019-12-13
 Author: Zhu Kun
-tags: [Collections]
+tags: [Iterable, Collections]
 toc: true
 comments: true
 ---
