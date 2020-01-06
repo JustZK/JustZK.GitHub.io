@@ -3,7 +3,7 @@ layout: post
 title: 重写contains(包含)
 date: 2020-01-06
 Author: Zhu Kun
-tags: [Iterable, Collections, List]
+tags: [Iterable, Collection, List]
 toc: true
 comments: true
 ---
