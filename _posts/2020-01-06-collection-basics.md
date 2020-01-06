@@ -14,7 +14,7 @@ comments: true
 
 ## **接口中定义的方法**
 
-![](http://justzk.github.io/images/collection-basics-1.png)
+![](http://justzk.github.io/images/collection-basics/collection-basics-1.png)
 
 可以看出Collection用法有：添加元素，删除元素，返回Collection集合的个数以及清空集合等。
 
@@ -26,7 +26,7 @@ Iterator接口经常被称作迭代器，它是Collection接口的父接口。�
 
 Iterator接口中主要定义了2个方法：
 
-![](http://justzk.github.io/images/collection-basics-2.png)
+![](http://justzk.github.io/images/collection-basics/collection-basics-2.png)
 
 下面程序简单示范了通过Iterator对象逐个获取元素的逻辑。
 
@@ -127,6 +127,6 @@ Queue用户模拟队列这种数据结构，队列通常是指“先进先出”
 
 #### 接口中定义的方法
 
-![](http://justzk.github.io/images/collection-basics-3.png)
+![](http://justzk.github.io/images/collection-basics/collection-basics-3.png)
 
 **具体详见**：[由浅入深理解java集合(四)——集合 Queue](https://www.jianshu.com/p/35760d7bac0d)
