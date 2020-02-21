@@ -12,6 +12,6 @@ Email：zk199519@gmail.com
 
 QQ：821188193
 
-WeChat：wxid_natzjpalczpt12
+WeChat：ZhuKun9519
 
 地址：杭州
