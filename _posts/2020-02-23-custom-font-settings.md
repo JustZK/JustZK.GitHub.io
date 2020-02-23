@@ -30,7 +30,7 @@ typeface 枚举类型，值如下
  打字机体虽然也属于Sans Serif，但由于是等宽字体，所以另外独立出Monospace这一种类
  monospace（等宽字体）：指每个字符宽度都一样。优点容易对齐，经常用来显示代码。
 
-## 二、fontFamily 字型家族
+### 二、fontFamily 字型家族
 
 什么是字型家族？它和typeface 的区别？要想了解首先得了解下什么是 typeface、font
  typeface：字体，是一个抽象的总体概念（它是一款“设计”），例如：宋体、楷体
@@ -48,7 +48,7 @@ typeface 枚举类型，值如下
 - casual
 - cursive
 
-## 三、textStyle 字体样式
+### 三、textStyle 字体样式
 
 **textStyle 标记类型，值如下**
 
@@ -56,7 +56,7 @@ typeface 枚举类型，值如下
 - bold （加粗）
 - italic（斜体）
 
-## 四、三者关系
+### 四、三者关系
 
 查看TextView源码(API 27)可知：TextView构造方法大致如下
 
