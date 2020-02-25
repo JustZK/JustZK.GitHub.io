@@ -8,6 +8,8 @@ permalink: /about/
 
 职位：Android软件开发（物联网）
 
+语言：Jave、Kotlin
+
 Email：zk199519@gmail.com
 
 QQ：821188193
