@@ -1,9 +1,9 @@
 ---
 layout: post
 title: View基础
-date: 2020-02-25
+date: 2020-02-26
 Author: Zhu Kun
-tags: [Service]
+tags: [View]
 toc: true
 comments: true
 ---
