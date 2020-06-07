@@ -28,7 +28,7 @@ Google的Android工程师可以轻松地决定更改tag结构，这会破坏你�
 
 
 
-## 第一种方法：重新instantiateItem - 不使用 tag
+## 第一种方法：重写instantiateItem - 不使用 tag
 
 这是一个简单的示例，该示例说明如何获取对的Fragments返回引用FragmentPagerAdapter，而不依赖于上的内部tags集合Fragments。关键是要修改继承[instantiateItem()](http://grepcode.com/file/repository.grepcode.com/java/ext/com.google.android/android/5.0.2_r1/android/support/v4/app/FragmentPagerAdapter.java?av=f#83)和保存Fragments的实例/引用在这个方法里面，而不是在getItem()。
 
@@ -99,7 +99,7 @@ public class SomeActivity extends Activity {
 }
 ```
 
-## 第二种方法：重新instantiateItem - 使用 tag
+## 第二种方法：重写instantiateItem - 使用 tag
 
 **注意**：这不适用于FragmentStatePagerAdapter，因为在创建Fragments没有设置tags
 
