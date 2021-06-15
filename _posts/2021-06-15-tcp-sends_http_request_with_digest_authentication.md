@@ -14,9 +14,9 @@ comments: true
 
 2. 封装好的http请求，如：volley、OKhttp：
 
-3. 1. 一次http请求会发起判断本地是否有建立该tcp的链路，若有则复用，没有则新建；
-   2. 一个http请求新建的tcp链路，会产生多次心跳；
-   3. 若一次http请求结束后几次心跳内再无http请求则关闭tcp链路；
+3. - 一次http请求会发起判断本地是否有建立该tcp的链路，若有则复用，没有则新建；
+   - 一个http请求新建的tcp链路，会产生多次心跳；
+   - 若一次http请求结束后几次心跳内再无http请求则关闭tcp链路；
 
 4. 若自己从tcp层写http请求，一般每次都新建一个tcp链路，在完成一次http请求后主动close     tcp链路；
 
