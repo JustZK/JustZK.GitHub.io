@@ -36,13 +36,13 @@ A1中的数据时密码和受保护信息的产物，它包括用户名，密码
 
 若算法是:MD5
 
-则 A1=<user>:<realm>:<password>
+则 A1=*<*user>:*<*realm>:*<*password>
 
  
 
 若算法是:MD5-sess 
 
-A1=MD5(<use>:<realm>:<password>):<nonce>:<cnonce>
+A1=MD5(*<*use>:*<*realm>:*<*password>):*<*nonce>:*<*cnonce>
 
  
 
@@ -52,13 +52,13 @@ A2 表示是与报文自身相关的信息，比如 URL，请求反复和报文�
 
 若 qop 未定义或者 auth: 
 
-A2=<request-method>:<uri-directive-value>
+A2=*<*request-method>:*<*uri-directive-value>
 
  
 
 若 qop 为 auth:-int
 
-A2=<request-method>:<uri-directive-value>:MD5(<request-entity-body>)
+A2=*<*request-method>:*<*uri-directive-value>:MD5(*<*request-entity-body>)
 
  
 
@@ -66,19 +66,19 @@ A2=<request-method>:<uri-directive-value>:MD5(<request-entity-body>)
 
 若 qop 没有定义:
 
-摘要 response=MD5(MD5(A1):<nonce>:MD5(A2)) 
+摘要 response=MD5(MD5(A1):*<*nonce>:MD5(A2)) 
 
  
 
 若 qop 为 auth:
 
-摘要 response=MD5(MD5(A1):<nonce>:<nc>:<cnonce>:<qop>:MD5(A2))
+摘要 response=MD5(MD5(A1):*<*nonce>:*<*nc>:*<*cnonce>:*<*qop>:MD5(A2))
 
  
 
 若 qop 为 auth-int:
 
-摘要 response= MD5(MD5(A1):<nonce>:<nc>:<cnonce>:<qop>:MD5(A2)) 
+摘要 response= MD5(MD5(A1):*<*nonce>:*<*nc>:*<*cnonce>:*<*qop>:MD5(A2)) 
 
  
 
